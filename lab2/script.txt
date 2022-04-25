@@ -1,0 +1,1 @@
+head -5 <(sort -R taccat.txt) | sort -d > randsort5wordsprocsub.txt
